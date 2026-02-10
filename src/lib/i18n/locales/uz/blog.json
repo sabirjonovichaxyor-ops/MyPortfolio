@@ -1,0 +1,13 @@
+{
+  "title": "Blog",
+  "subtitle": "Texnologiya, elektromexanika va web development haqidagi fikrlarim",
+
+  "back": "Orqaga qaytish",
+  "read": "O‘qish",
+  "readingTime": "{{count}} daqiqa o‘qish",
+
+  "empty": {
+    "title": "Hozircha maqolalar yo‘q",
+    "description": "Tez orada qiziqarli maqolalar paydo bo‘ladi!"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content":{
+    "title": "Men haqimda",
+    "subtitle": "Texnologiya, dizayn va muhandislik kesishgan nuqtada ishlayman",
+
+    "stats": {
+      "experience": "Yillik tajriba",
+      "projects": "Loyihalar"
+    },
+
+    "personal": {
+      "title": "Shaxsiy ma’lumotlar",
+      "birthdate": "Tug‘ilgan sana",
+      "location": "Manzil"
+    },
+
+    "education": {
+      "title": "Ta’lim",
+      "higher": "Oliy ta’lim",
+      "higher_desc": "Texnik yo‘nalish bo‘yicha bakalavr darajasi",
+      "secondary": "O‘rta maxsus ta’lim",
+      "secondary_desc": "Elektromexanika yo‘nalishi"
+    },
+
+    "passion": {
+      "title": "Mening ishtiyoqim",
+      "description": "Murakkab tizimlarni soddalashtirish, foydalanuvchi uchun qulay va samarali mahsulotlar yaratish"
+    }
+  }
+
+}

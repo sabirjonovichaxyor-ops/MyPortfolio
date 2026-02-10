@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "Связаться",
+    "subtitle": "Готов обсудить ваш проект",
+
+    "info": {
+      "title": "Контактная информация",
+      "email": { "label": "Email", "value": "Связаться через форму" },
+      "phone": { "label": "Телефон", "value": "Доступно по запросу" },
+      "location": { "label": "Местоположение", "value": "Ташкент, Узбекистан" }
+    },
+
+    "socialsTitle": "Социальные сети",
+
+    "availability": {
+      "title": "Открыт для новых проектов",
+      "description": "Готов к сотрудничеству и новым проектам"
+    },
+
+    "form": {
+      "title": "Отправить сообщение",
+      "fields": {
+        "name": { "label": "Имя", "placeholder": "Ваше имя" },
+        "email": { "label": "Email", "placeholder": "email@example.com" },
+        "subject": { "label": "Тема", "placeholder": "Тема сообщения" },
+        "message": { "label": "Сообщение", "placeholder": "Ваше сообщение..." }
+      },
+      "submit": {
+        "idle": "Отправить сообщение",
+        "loading": "Отправка..."
+      },
+      "status": {
+        "success": "Сообщение успешно отправлено!",
+        "error": "Произошла ошибка"
+      }
+    }
+  }
+}

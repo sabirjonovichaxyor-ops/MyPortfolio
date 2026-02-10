@@ -1,0 +1,53 @@
+{
+  "title": "Ish Tajribasi",
+  "subtitle": "Professional faoliyatim davomida erishgan yutuqlarim",
+  "achievements": "Asosiy yutuqlar",
+
+  "items": {
+    "senior": {
+      "title": "Senior Elektromexanik",
+      "company": "Texnik Tizimlar",
+      "period": "2012 � Hozir",
+      "duration": "12 yil",
+      "description": "Murakkab elektromexanik tizimlarni loyihalash, o'rnatish va texnik xizmat ko'rsatish. Avtomatlashtirish tizimlari bilan ishlash.",
+      "achievements": [
+        "50+ loyihani muvaffaqiyatli yakunlash",
+        "Texnik tizimlar samaradorligini 30% oshirish",
+        "Yangi texnologiyalarni joriy etish"
+      ],
+      "color": "blue"
+    },
+    "frontend": {
+      "title": "Frontend Developer",
+      "company": "Web Solutions",
+      "period": "2020 � Hozir",
+      "duration": "4 yil",
+      "description": "Zamonaviy web ilovalarni yaratish, React, TypeScript va boshqa frontend texnologiyalar bilan ishlash.",
+      "achievements": [
+        "20+ web loyihalarni yaratish",
+        "Responsive va user-friendly interfeys dizayni",
+        "Performance optimizatsiya"
+      ],
+      "color": "purple"
+    },
+    "designer": {
+      "title": "UI/UX Designer",
+      "company": "Creative Studio",
+      "period": "2019 � 2022",
+      "duration": "3 yil",
+      "description": "Foydalanuvchi interfeysi va tajribasi dizayni, prototiplash va user research.",
+      "achievements": [
+        "30+ dizayn loyihalarini amalga oshirish",
+        "User experience 40% yaxshilash",
+        "Branding va vizual identifikatsiya"
+      ],
+      "color": "green"
+    }
+  },
+
+  "summary": {
+    "years": "Yillik Tajriba",
+    "projects": "Tugallangan Loyihalar",
+    "clients": "Mamnun Mijozlar"
+  }
+}

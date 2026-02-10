@@ -1,0 +1,18 @@
+{
+  "content": {
+    "name": "Axyor Sabirnonovich",
+    "aboutMe": "12 yillik texnik tajriba va 4 yillik web development tajribasi bilan zamonaviy yechimlar yarataman.",
+
+    "roles": [
+      "Professional Elektromexanik",
+      "Frontend Developer",
+      "UI/UX Designer",
+      "Fullstack Developer"
+    ],
+
+    "actions": {
+      "contact": "Bog'lanish",
+      "download": "CV yuklab olish"
+    }
+  }
+}

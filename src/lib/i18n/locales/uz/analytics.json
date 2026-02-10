@@ -1,0 +1,21 @@
+{
+  "analytics": {
+    "title": "Analytics",
+    "stats": {
+      "total": "Jami ko‘rishlar",
+      "today": "Bugungi ko‘rishlar",
+      "pages": "Faol sahifalar",
+      "average": "O‘rtacha ko‘rishlar"
+    },
+    "popular": "Mashhur sahifalar",
+    "recent": "So‘nggi ko‘rishlar",
+    "pages": {
+      "home": "Bosh sahifa",
+      "about": "Men haqimda",
+      "experience": "Tajriba",
+      "skills": "Ko‘nikmalar",
+      "blog": "Blog",
+      "contact": "Aloqa"
+    }
+  }
+}

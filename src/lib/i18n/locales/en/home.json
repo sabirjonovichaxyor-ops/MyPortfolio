@@ -1,0 +1,18 @@
+{
+  "content": {
+    "name": "Axyor Sabirjonovich",
+    "aboutMe": "12 years of technical experience and 4 years of web development experience, creating modern web interfaces and powerful user experiences.",
+
+    "roles": [
+      "Professional Electrician",
+      "Frontend Developer",
+      "UI/UX Designer",
+      "Fullstack Developer"
+    ],
+
+    "actions": {
+      "contact": "Contact",
+      "download": "Download CV"
+    }
+  }
+}

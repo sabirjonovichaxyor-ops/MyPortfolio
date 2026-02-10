@@ -1,0 +1,78 @@
+{
+  "content": {
+    "title": "Көндүмдөр",
+    "subtitle": "Заманбап технологиялар менен иштеймин",
+    "categories": {
+      "frontend": {
+        "title": "Frontend иштеп чыгуу",
+        "skills": [
+          { "name": "React", "level": 65 },
+          { "name": "TypeScript", "level": 60 },
+          { "name": "Vue.js", "level": 55 },
+          { "name": "CSS/Tailwind", "level": 65 },
+          { "name": "Next.js", "level": 58 }
+        ]
+      },
+      "electro": {
+        "title": "Электромеханика",
+        "skills": [
+          { "name": "PLC программалоо", "level": 60 },
+          { "name": "Автоматика", "level": 58 },
+          { "name": "Электр схемалары", "level": 62 },
+          { "name": "Башкаруу системалары", "level": 55 },
+          { "name": "Сенсорлор", "level": 50 },
+          { "name": "Моторлордду башкаруу", "level": 57 }
+        ]
+      },
+      "design": {
+        "title": "Дизайн",
+        "skills": [
+          { "name": "Adobe Creative Suite", "level": 55 },
+          { "name": "Прототиптөө", "level": 58 },
+          { "name": "Figma", "level": 60 },
+          { "name": "UI/UX Дизайн", "level": 57 }
+        ]
+      },
+      "backend": {
+        "title": "Backend жана маалымат базалары",
+        "skills": [
+          { "name": "Node.js", "level": 68 },
+          { "name": "PostgreSQL", "level": 65 },
+          { "name": "MongoDB", "level": 60 },
+          { "name": "REST API", "level": 70 },
+          { "name": "GraphQL", "level": 55 }
+        ]
+      }
+    },
+    "toolsTitle": "Куралдар",
+    "tools": [
+      { "name": "VS Code", "icon": "⚙️" },
+      { "name": "Git", "icon": "🔧" },
+      { "name": "Docker", "icon": "📦" },
+      { "name": "Webpack", "icon": "⚡" },
+      { "name": "Postman", "icon": "📡" },
+      { "name": "Linux", "icon": "🐧" }
+    ],
+    "certsTitle": "Сертификаттар",
+    "certifications": [
+      {
+        "icon": "⚡",
+        "title": "Профессионал электромеханик",
+        "desc": "Мамлекеттик сертификаты",
+        "color": "orange"
+      },
+      {
+        "icon": "💻",
+        "title": "Frontend иштеп чыгуучу",
+        "desc": "React жана TypeScript",
+        "color": "blue"
+      },
+      {
+        "icon": "🎨",
+        "title": "UI/UX дизайнер",
+        "desc": "Колдонуучу тажрыйба",
+        "color": "purple"
+      }
+    ]
+  }
+}

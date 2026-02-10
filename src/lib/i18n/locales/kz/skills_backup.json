@@ -1,0 +1,42 @@
+{
+  "content": {
+    "title": "Дағдылар",
+    "subtitle": "Заманауи технологиялармен жұмыс істеймін",
+    "categories": {
+      "title": "Frontend әзірлеу"
+    },
+    "electro": {
+      "title": "Электромеханика",
+      "plc": "PLC бағдарламалау",
+      "automation": "Автоматтандыру",
+      "circuits": "Электр сұлбалары",
+      "control": "Басқару жүйелері",
+      "sensors": "Сенсорлар",
+      "motors": "Қозғалтқыштарды басқару"
+    },
+    "design": {
+      "title": "Дизайн",
+      "adobe": "Adobe Creative Suite",
+      "proto": "Прототиптеу"
+    },
+    "backend": {
+      "title": "Backend және дерекқорлар"
+    },
+    "tools": "Құралдар",
+    "certifications": "Сертификаттар",
+    "certs": {
+      "electro": {
+        "title": "Кәсіби электромеханик",
+        "desc": "Мемлекеттік сертификаты"
+      },
+      "frontend": {
+        "title": "Frontend әзірлеуші",
+        "desc": "React & TypeScript"
+      },
+      "design": {
+        "title": "UI/UX әзірлеуші",
+        "desc": "Пайдаланушы тәжірибесі"
+      }
+    }
+  }
+}

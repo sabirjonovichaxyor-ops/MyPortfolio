@@ -1,0 +1,53 @@
+{
+  "title": "Work Experience",
+  "subtitle": "Achievements gained throughout my professional career",
+  "achievements": "Key achievements",
+
+  "items": {
+    "senior": {
+      "title": "Senior Electromechanical Engineer",
+      "company": "Technical Systems",
+      "period": "2012 – Present",
+      "duration": "12 years",
+      "description": "Designing, installing, and maintaining complex electromechanical systems. Working with automation systems.",
+      "achievements": [
+        "Successfully completed 50+ projects",
+        "Increased system efficiency by 30%",
+        "Implemented new technologies"
+      ],
+      "color": "blue"
+    },
+    "frontend": {
+      "title": "Frontend Developer",
+      "company": "Web Solutions",
+      "period": "2020 – Present",
+      "duration": "4 years",
+      "description": "Building modern web applications using React, TypeScript, and other frontend technologies.",
+      "achievements": [
+        "Developed 20+ web projects",
+        "Responsive and user-friendly UI design",
+        "Performance optimization"
+      ],
+      "color": "purple"
+    },
+    "designer": {
+      "title": "UI/UX Designer",
+      "company": "Creative Studio",
+      "period": "2019 – 2022",
+      "duration": "3 years",
+      "description": "User interface and user experience design, prototyping, and user research.",
+      "achievements": [
+        "Delivered 30+ design projects",
+        "Improved user experience by 40%",
+        "Branding and visual identity"
+      ],
+      "color": "green"
+    }
+  },
+
+  "summary": {
+    "years": "Years of experience",
+    "projects": "Completed projects",
+    "clients": "Satisfied clients"
+  }
+}

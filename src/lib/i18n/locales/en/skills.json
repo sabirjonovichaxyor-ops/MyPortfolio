@@ -1,0 +1,78 @@
+{
+  "content": {
+    "title": "Skills",
+    "subtitle": "I work with modern technologies",
+    "categories": {
+      "frontend": {
+        "title": "Frontend Development",
+        "skills": [
+          { "name": "React", "level": 65 },
+          { "name": "TypeScript", "level": 60 },
+          { "name": "Vue.js", "level": 55 },
+          { "name": "CSS/Tailwind", "level": 65 },
+          { "name": "Next.js", "level": 58 }
+        ]
+      },
+      "electro": {
+        "title": "Electromechanics",
+        "skills": [
+          { "name": "PLC Programming", "level": 60 },
+          { "name": "Automation", "level": 58 },
+          { "name": "Electrical Circuits", "level": 62 },
+          { "name": "Control Systems", "level": 55 },
+          { "name": "Sensors", "level": 50 },
+          { "name": "Motor Control", "level": 57 }
+        ]
+      },
+      "design": {
+        "title": "Design",
+        "skills": [
+          { "name": "Adobe Creative Suite", "level": 55 },
+          { "name": "Prototyping", "level": 58 },
+          { "name": "Figma", "level": 60 },
+          { "name": "UI/UX Design", "level": 57 }
+        ]
+      },
+      "backend": {
+        "title": "Backend & Database",
+        "skills": [
+          { "name": "Node.js", "level": 68 },
+          { "name": "PostgreSQL", "level": 65 },
+          { "name": "MongoDB", "level": 60 },
+          { "name": "REST APIs", "level": 70 },
+          { "name": "GraphQL", "level": 55 }
+        ]
+      }
+    },
+    "toolsTitle": "Tools",
+    "tools": [
+      { "name": "VS Code", "icon": "⚙️" },
+      { "name": "Git", "icon": "🔧" },
+      { "name": "Docker", "icon": "📦" },
+      { "name": "Webpack", "icon": "⚡" },
+      { "name": "Postman", "icon": "📡" },
+      { "name": "Linux", "icon": "🐧" }
+    ],
+    "certsTitle": "Certifications",
+    "certifications": [
+      {
+        "icon": "⚡",
+        "title": "Professional Electromechanic",
+        "desc": "State Certification",
+        "color": "orange"
+      },
+      {
+        "icon": "💻",
+        "title": "Frontend Developer",
+        "desc": "React & TypeScript",
+        "color": "blue"
+      },
+      {
+        "icon": "🎨",
+        "title": "UI/UX Designer",
+        "desc": "User Experience",
+        "color": "purple"
+      }
+    ]
+  }
+}

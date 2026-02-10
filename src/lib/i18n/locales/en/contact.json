@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "Contact",
+    "subtitle": "I'm ready to discuss your project",
+
+    "info": {
+      "title": "Contact Information",
+      "email": { "label": "Email", "value": "Contact via form" },
+      "phone": { "label": "Phone", "value": "Available upon request" },
+      "location": { "label": "Location", "value": "Tashkent, Uzbekistan" }
+    },
+
+    "socialsTitle": "Social Media",
+
+    "availability": {
+      "title": "Open to new projects",
+      "description": "Available for collaboration and new projects"
+    },
+
+    "form": {
+      "title": "Send a message",
+      "fields": {
+        "name": { "label": "Name", "placeholder": "Your name" },
+        "email": { "label": "Email", "placeholder": "email@example.com" },
+        "subject": { "label": "Subject", "placeholder": "Message subject" },
+        "message": { "label": "Message", "placeholder": "Your message..." }
+      },
+      "submit": {
+        "idle": "Send message",
+        "loading": "Sending..."
+      },
+      "status": {
+        "success": "Message sent successfully!",
+        "error": "An error occurred"
+      }
+    }
+  }
+}

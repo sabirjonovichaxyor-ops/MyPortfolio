@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "Bog'lanish",
+    "subtitle": "Loyihangiz haqida gaplashishga tayyorman",
+
+    "info": {
+      "title": "Aloqa ma'lumotlari",
+      "email": { "label": "Email", "value": "Form orqali bog'laning" },
+      "phone": { "label": "Telefon", "value": "So'rov bo'yicha beriladi" },
+      "location": { "label": "Joylashuv", "value": "Toshkent, O'zbekiston" }
+    },
+
+    "socialsTitle": "Ijtimoiy tarmoqlar",
+
+    "availability": {
+      "title": "Yangi loyihalar uchun ochiq",
+      "description": "Hamkorlik va yangi loyihalar uchun tayyorman"
+    },
+
+    "form": {
+      "title": "Xabar yuborish",
+      "fields": {
+        "name": { "label": "Ism", "placeholder": "Ismingiz" },
+        "email": { "label": "Email", "placeholder": "email@example.com" },
+        "subject": { "label": "Mavzu", "placeholder": "Xabar mavzusi" },
+        "message": { "label": "Xabar", "placeholder": "Xabaringiz..." }
+      },
+      "submit": {
+        "idle": "Xabar yuborish",
+        "loading": "Yuborilmoqda..."
+      },
+      "status": {
+        "success": "Xabar muvaffaqiyatli yuborildi!",
+        "error": "Xatolik yuz berdi"
+      }
+    }
+  }
+}

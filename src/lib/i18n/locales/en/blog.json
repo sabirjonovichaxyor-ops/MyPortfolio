@@ -1,0 +1,13 @@
+{
+  "title": "Blog",
+  "subtitle": "My thoughts on technology, electromechanics, and web development",
+
+  "back": "Go back",
+  "read": "Read",
+  "readingTime": "{{count}} min read",
+
+  "empty": {
+    "title": "No articles yet",
+    "description": "Interesting articles will appear soon!"
+  }
+}

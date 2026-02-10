@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "Axyor Sabirjonovich"
+  },
+
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "skills": "Ko'nikmalar",
+    "experience": "Tajriba",
+    "services": "Xizmatlar",
+    "portfolio": "Portfolio",
+    "projects": "Loyihalar",
+    "contact": "Aloqa",
+    "analytics": "Analitika",
+    "blog": "Blog",
+    "aboutSections": "Portfolio Ro'yxati"
+  },
+
+  "footer": {
+    "name": "Axyor Sabirjonovich",
+    "description": "Professional elektromexanik va frontend developer. Texnologiya va innovatsiya orqali kelajakni quraman.",
+
+    "quickLinks": "Tezkor havolalar",
+    "contactUs": "Bog'lanish",
+
+    "email": "Elektron pochta",
+    "phone": "Telefon",
+    "address": "Manzil",
+
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari",
+
+    "copyright": "Barcha huquqlar himoyalangan"
+  }
+}

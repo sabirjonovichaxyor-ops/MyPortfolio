@@ -1,0 +1,78 @@
+{
+  "content": {
+    "title": "Навыки",
+    "subtitle": "Работаю с современными технологиями",
+    "categories": {
+      "frontend": {
+        "title": "Frontend-разработка",
+        "skills": [
+          { "name": "React", "level": 65 },
+          { "name": "TypeScript", "level": 60 },
+          { "name": "Vue.js", "level": 55 },
+          { "name": "CSS/Tailwind", "level": 75 },
+          { "name": "Next.js", "level": 68 }
+        ]
+      },
+      "electro": {
+        "title": "Электромеханика",
+        "skills": [
+          { "name": "Программирование PLC", "level": 60 },
+          { "name": "Автоматика", "level": 68 },
+          { "name": "Электрические схемы", "level": 72 },
+          { "name": "Системы управления", "level": 65 },
+          { "name": "Датчики", "level": 60 },
+          { "name": "Управление двигателями", "level": 67 }
+        ]
+      },
+      "design": {
+        "title": "Дизайн",
+        "skills": [
+          { "name": "Adobe Creative Suite", "level": 55 },
+          { "name": "Прототипирование", "level": 68 },
+          { "name": "Figma", "level": 70 },
+          { "name": "UI/UX Дизайн", "level": 67 }
+        ]
+      },
+      "backend": {
+        "title": "Backend и базы данных",
+        "skills": [
+          { "name": "Node.js", "level": 68 },
+          { "name": "PostgreSQL", "level": 65 },
+          { "name": "MongoDB", "level": 60 },
+          { "name": "REST API", "level": 70 },
+          { "name": "GraphQL", "level": 55 }
+        ]
+      }
+    },
+    "toolsTitle": "Инструменты",
+    "tools": [
+      { "name": "VS Code", "icon": "⚙️" },
+      { "name": "Git", "icon": "🔧" },
+      { "name": "Docker", "icon": "📦" },
+      { "name": "Webpack", "icon": "⚡" },
+      { "name": "Postman", "icon": "📡" },
+      { "name": "Linux", "icon": "🐧" }
+    ],
+    "certsTitle": "Сертификаты",
+    "certifications": [
+      {
+        "icon": "⚡",
+        "title": "Профессиональный электромеханик",
+        "desc": "Государственная сертификация",
+        "color": "orange"
+      },
+      {
+        "icon": "💻",
+        "title": "Frontend разработчик",
+        "desc": "React и TypeScript",
+        "color": "blue"
+      },
+      {
+        "icon": "🎨",
+        "title": "UI/UX дизайнер",
+        "desc": "Пользовательский опыт",
+        "color": "purple"
+      }
+    ]
+  }
+}

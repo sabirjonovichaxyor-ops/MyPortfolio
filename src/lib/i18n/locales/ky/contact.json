@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "Байланыш",
+    "subtitle": "Долбооруңуз тууралуу сүйлөшүүгө даярмын",
+
+    "info": {
+      "title": "Байланыш маалыматы",
+      "email": { "label": "Email", "value": "Форма аркылуу байланыш" },
+      "phone": { "label": "Телефон", "value": "Сураныч боюнча жеткиликтүү" },
+      "location": { "label": "Жайгашкан жери", "value": "Ташкент, Өзбекстан" }
+    },
+
+    "socialsTitle": "Социалдык тармактар",
+
+    "availability": {
+      "title": "Жаңы долбоорлор үчүн ачык",
+      "description": "Кызматташууга жана жаңы долбоорлорго даярмын"
+    },
+
+    "form": {
+      "title": "Билдирүү жөнөтүү",
+      "fields": {
+        "name": { "label": "Аты", "placeholder": "Атыңыз" },
+        "email": { "label": "Email", "placeholder": "email@example.com" },
+        "subject": { "label": "Тема", "placeholder": "Билдирүүнүн темасы" },
+        "message": { "label": "Билдирүү", "placeholder": "Билдирүүңүз..." }
+      },
+      "submit": {
+        "idle": "Жөнөтүү",
+        "loading": "Жөнөтүлүүдө..."
+      },
+      "status": {
+        "success": "Билдирүү ийгиликтүү жөнөтүлдү!",
+        "error": "Ката кетти"
+      }
+    }
+  }
+}

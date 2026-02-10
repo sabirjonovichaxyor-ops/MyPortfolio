@@ -1,0 +1,21 @@
+{
+  "analytics": {
+    "title": "Analytics",
+    "stats": {
+      "total": "Total views",
+      "today": "Today views",
+      "pages": "Active pages",
+      "average": "Average views"
+    },
+    "popular": "Popular pages",
+    "recent": "Recent views",
+    "pages": {
+      "home": "Home",
+      "about": "About",
+      "experience": "Experience",
+      "skills": "Skills",
+      "blog": "Blog",
+      "contact": "Contact"
+    }
+  }
+}

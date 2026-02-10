@@ -1,0 +1,78 @@
+{
+  "content": {
+    "title": "Дағдылар",
+    "subtitle": "Заманауи технологиялармен жұмыс істеймін",
+    "categories": {
+      "frontend": {
+        "title": "Frontend әзірлеу",
+        "skills": [
+          { "name": "React", "level": 65 },
+          { "name": "TypeScript", "level": 60 },
+          { "name": "Vue.js", "level": 55 },
+          { "name": "CSS/Tailwind", "level": 65 },
+          { "name": "Next.js", "level": 58 }
+        ]
+      },
+      "electro": {
+        "title": "Электромеханика",
+        "skills": [
+          { "name": "PLC бағдарламалау", "level": 60 },
+          { "name": "Автоматтандыру", "level": 58 },
+          { "name": "Электр сұлбалары", "level": 62 },
+          { "name": "Басқару жүйелері", "level": 55 },
+          { "name": "Сенсорлар", "level": 50 },
+          { "name": "Қозғалтқыштарды басқару", "level": 57 }
+        ]
+      },
+      "design": {
+        "title": "Дизайн",
+        "skills": [
+          { "name": "Adobe Creative Suite", "level": 55 },
+          { "name": "Прототиптеу", "level": 58 },
+          { "name": "Figma", "level": 60 },
+          { "name": "UI/UX Дизайн", "level": 57 }
+        ]
+      },
+      "backend": {
+        "title": "Backend және дерекқорлар",
+        "skills": [
+          { "name": "Node.js", "level": 68 },
+          { "name": "PostgreSQL", "level": 65 },
+          { "name": "MongoDB", "level": 60 },
+          { "name": "REST API", "level": 70 },
+          { "name": "GraphQL", "level": 55 }
+        ]
+      }
+    },
+    "toolsTitle": "Құралдар",
+    "tools": [
+      { "name": "VS Code", "icon": "⚙️" },
+      { "name": "Git", "icon": "🔧" },
+      { "name": "Docker", "icon": "📦" },
+      { "name": "Webpack", "icon": "⚡" },
+      { "name": "Postman", "icon": "📡" },
+      { "name": "Linux", "icon": "🐧" }
+    ],
+    "certsTitle": "Сертификаттар",
+    "certifications": [
+      {
+        "icon": "⚡",
+        "title": "Кәсіби электромеханик",
+        "desc": "Мемлекеттік сертификаты",
+        "color": "orange"
+      },
+      {
+        "icon": "💻",
+        "title": "Frontend әзірлеуші",
+        "desc": "React және TypeScript",
+        "color": "blue"
+      },
+      {
+        "icon": "🎨",
+        "title": "UI/UX әзірлеуші",
+        "desc": "Пайдаланушы тәжірибесі",
+        "color": "purple"
+      }
+    ]
+  }
+}

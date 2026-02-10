@@ -1,0 +1,30 @@
+{
+  "content": {
+    "title": "About Me",
+    "subtitle": "I work at the intersection of technology, design, and engineering",
+
+    "stats": {
+      "experience": "Years of experience",
+      "projects": "Projects"
+    },
+
+    "personal": {
+      "title": "Personal Information",
+      "birthdate": "Date of birth",
+      "location": "Location"
+    },
+
+    "education": {
+      "title": "Education",
+      "higher": "Higher education",
+      "higher_desc": "Bachelor's degree in a technical field",
+      "secondary": "Secondary specialized education",
+      "secondary_desc": "Electromechanics specialization"
+    },
+
+    "passion": {
+      "title": "My Passion",
+      "description": "Simplifying complex systems and creating user-friendly, efficient products"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Axyor Sabirjonovich"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "analytics": "Analytics",
+    "blog": "Blog",
+    "projects": "Projects",
+    "aboutSections": "List of profile"
+  },
+
+  "footer": {
+    "name": "Axyor Sabirjonovich",
+    "description": "Professional electromechanic and frontend developer. Building the future through technology and innovation.",
+
+    "quickLinks": "Quick links",
+    "contactUs": "Contact us",
+
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+
+    "copyright": "All rights reserved © Axyor Sabirjonovich"
+  }
+}
+
+
+
+

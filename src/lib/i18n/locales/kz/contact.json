@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "Байланыс",
+    "subtitle": "Жобаңыз туралы сөйлесуге дайынмын",
+
+    "info": {
+      "title": "Байланыс мәліметтері",
+      "email": { "label": "Email", "value": "Форма арқылы байланыс" },
+      "phone": { "label": "Телефон", "value": "Сұраныс бойынша қолжетімді" },
+      "location": { "label": "Орналасқан жері", "value": "Ташкент, Өзбекстан" }
+    },
+
+    "socialsTitle": "Әлеуметтік желілер",
+
+    "availability": {
+      "title": "Жаңа жобаларға ашық",
+      "description": "Ынтымақтастық пен жаңа жобаларға дайынмын"
+    },
+
+    "form": {
+      "title": "Хабар жіберу",
+      "fields": {
+        "name": { "label": "Аты", "placeholder": "Атыңыз" },
+        "email": { "label": "Email", "placeholder": "email@example.com" },
+        "subject": { "label": "Тақырып", "placeholder": "Хабар тақырыбы" },
+        "message": { "label": "Хабар", "placeholder": "Хабарыңыз..." }
+      },
+      "submit": {
+        "idle": "Хабар жіберу",
+        "loading": "Жіберілуде..."
+      },
+      "status": {
+        "success": "Хабар сәтті жіберілді!",
+        "error": "Қате орын алды"
+      }
+    }
+  }
+}
