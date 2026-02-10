@@ -265,3 +265,13 @@ If you have any questions or need help:
 ---
 
 Built with ❤️ by [Your Name](https://your-website.com)
+=======
+# Personal Portfolio
+
+This is my personal portfolio website.
+
+Tech stack:
+- React
+- TailwindCSS
+- GlobalCSS
+
