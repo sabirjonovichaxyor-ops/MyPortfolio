@@ -34,7 +34,7 @@ const About: React.FC = () => {
               <div className="w-full h-96 bg-gradient-to-br from-blue-200 to-purple-100 dark:from-blue-700/20 dark:to-purple-700/20 rounded-2xl flex items-center justify-center">
                 <div className="w-64 h-64 rounded-full overflow-hidden shadow-2xl">
                   <motion.img
-                    src="/public/images/Axyor.png"
+                    src="/images/Axyor.png"
                     alt="Profile"
                     className="w-full h-full object-cover"
                     whileHover={{ scale: 1.1 }}
